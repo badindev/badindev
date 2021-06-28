@@ -2,7 +2,7 @@
 
 <h3 align="left">About Me:</h3>
 
-My name is Lucas Badin from Brazil (🇧🇷). I'm currently working on [Life City RP](https://discord.com/invite/lifecity) and I'm support at [Pro5M](https://pro5m-bot.com/).
+My name is Lucas Badin from Brazil (🇧🇷). I'm currently support at [Pro5M](https://pro5m-bot.com/).
 
 <h3 align="left">Languages and Tools:</h3>
 
