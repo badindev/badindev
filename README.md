@@ -3,7 +3,7 @@
 <h3 align="left">Sobre mim:</h3>
 
 
-Meu nome é Lucas Badin. Atualmente sou suporte da [Pro5M](https://pro5m-bot.com/) e desenvolvedor em [Life City RP](https://discord.gg/EgQGGAp).
+Meu nome é Lucas Badin. Atualmente sou suporte da [Pro5M Bot](https://pro5m-bot.com/) e desenvolvedor em [Life City RP](https://discord.gg/EgQGGAp).
 
 <h3 align="left">Linguagens:</h3>
 
