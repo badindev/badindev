@@ -3,7 +3,7 @@
 <h3 align="left">Sobre mim:</h3>
 
 
-Meu nome é Lucas Badin. Atualmente sou suporte da [Pro5M](https://pro5m-bot.com/) e desenvolvedor em [Life City RP](https://pro5m-bot.com/).
+Meu nome é Lucas Badin. Atualmente sou suporte da [Pro5M](https://pro5m-bot.com/) e desenvolvedor em [Life City RP](https://discord.gg/EgQGGAp).
 
 <h3 align="left">Linguagens:</h3>
 
@@ -34,11 +34,5 @@ Meu nome é Lucas Badin. Atualmente sou suporte da [Pro5M](https://pro5m-bot.com
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /></a>
         
 <h3 align="left">Contato:</h3>
-
-<a href="https://steamcommunity.com/id/badinobrabo/" alt="steam">
-<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /></a>
-
-<a href="https://www.twitch.tv/badinrp" alt="twitch">
-<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
 
 <img src="https://discord.c99.nl/widget/theme-2/687043466949165088.png"/></a>
