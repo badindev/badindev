@@ -1,11 +1,11 @@
-<h1 align="center">Olá! Eu sou Lucas Badin.</h1>
+<h1 align="center">Hello!</h1>
 
-<h3 align="left">Sobre mim:</h3>
+<h3 align="left">About me:</h3>
 
 
-Eu tenho 17 anos e Atualmente sou suporte da [Pro5M Bot](https://pro5m-bot.com/).
+My name is Lucas Badin and I'm support at [Pro5M Bot](https://pro5m-bot.com/) and developer in [After City](https://aftercity.com.br/). I'm from Brazil, living in Porto Alegre. You can find me on Discord.
 
-<h3 align="left">Linguagens:</h3>
+<h3 align="left">Languages:</h3>
 
 <p align="left"> 
 <a href="https://www.w3schools.com/css/" alt="css">
@@ -33,6 +33,6 @@ Eu tenho 17 anos e Atualmente sou suporte da [Pro5M Bot](https://pro5m-bot.com/)
 <a href="https://www.sqlite.org/" alt="sqllite">
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /></a>
         
-<h3 align="left">Contato:</h3>
+<h3 align="left">Contact:</h3>
 
 <img src="https://discord.c99.nl/widget/theme-2/687043466949165088.png"/></a>
