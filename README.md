@@ -3,7 +3,7 @@
 <h3 align="left">About me:</h3>
 
 
-My name is Lucas Badin and I'm support at [Pro5M Bot](https://pro5m-bot.com/) and developer in [After City](https://aftercity.com.br/) | [Euforia RP](https://euforia.gg/). I'm from Brazil, living in Porto Alegre. You can find me on Discord.
+My name is Lucas Badin and I'm support at [Pro5M Bot](https://pro5m-bot.com/) and developer in [After City](https://aftercity.online/) | [Euforia RP](https://euforia.gg/). I'm from Brazil, living in Porto Alegre. You can find me on Discord.
 
 <h3 align="left">Languages:</h3>
 
